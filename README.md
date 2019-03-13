@@ -1,2 +1,1 @@
 # FirstProject
-Learning project
